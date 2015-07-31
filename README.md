@@ -1,2 +1,2 @@
-# PortalTAS
-Portal TASes made with Source Pause Tool
+# SourceTAS
+Source TASes made with Source Pause Tool
